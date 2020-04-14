@@ -1,0 +1,2 @@
+此项目为自定义注解项目
+引入eureka-client jar时不能通过@EnableEurekaClient注解自动引入，会有版本不匹配情况出现
